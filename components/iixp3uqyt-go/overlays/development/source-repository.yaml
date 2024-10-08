@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: iixp3uqyt-go-repository
+spec:
+  url: https://github.com/rhtap-qe-jsmid/iixp3uqyt-go
